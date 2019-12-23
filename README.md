@@ -45,5 +45,3 @@ Rendez vous sur la page de connexion et connectez-vous
 # Notre Discord : https://discord.gg/VPg2C9f
 
 # Notre Site Internet : https://web8456.holycloud.fr/
-
-# Site de démonstration du CMS : https://web9684.holycloud.fr/
